@@ -1,0 +1,22 @@
+{
+  "name": "reg-season-champ",
+  "version": "1.0.0",
+  "description": "determining the regular season champion of multiple sports",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elkirkmo/regSeasonChamp.git"
+  },
+  "author": "Chris Kirkham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elkirkmo/regSeasonChamp/issues"
+  },
+  "homepage": "https://github.com/elkirkmo/regSeasonChamp",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
