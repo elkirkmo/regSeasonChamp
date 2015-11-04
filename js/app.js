@@ -1,2 +1,4 @@
-var app = angular.module("regSeason",[]);
+"use strict";
+
+var regSeason = angular.module('regSeason',[]);
 
