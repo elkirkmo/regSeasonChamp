@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 
-var regSeason = angular.module('regSeason',[]);
+// var regSeason = angular.module('regSeason',[]);
 
